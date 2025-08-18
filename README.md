@@ -39,8 +39,8 @@
 <h2 align="left">📊 GitHub Stats:</h2>
 
 <div align="center">
-  <a href="https://github.com/Karolacxc">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Karolacxc&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=midnight-purple" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Karolacxc&layout=compact&langs_count=10&card_width=320&theme=midnight-purple" />
+  <a href="https://github.com/AnaCarolinaxc">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaxc&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=midnight-purple" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaxc&layout=compact&langs_count=10&card_width=320&theme=midnight-purple" />
 
   
