@@ -11,9 +11,7 @@
 
 💻 I'm a passionate developer with a deep interest in technology. Currently, I am pursuing a Computer Science degree at the Universidade Estadual do Sudoeste da Bahia (UESB), where I’ve gained a strong foundation in core computer science concepts and apply them in real-world projects.
 
-
 ---
-
 
 <h2 align="left">💻 My Tech Stacks:</h2>
 
@@ -41,6 +39,10 @@
 <div align="center">
   <a href="https://github.com/AnaCarolinaxc">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=AnaCarolinaxc&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&theme=midnight-purple" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaxc&layout=compact&langs_count=10&card_width=320&theme=midnight-purple" />
+
+    <!-- Card de linguagens contando commits em repositórios colaborados -->
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaCarolinaxc&include_all_commits=true&include_repo_commits=true&count_private=true&layout=compact&langs_count=10&card_width=320&theme=midnight-purple" />
+  </a>
+</div>
 
   
